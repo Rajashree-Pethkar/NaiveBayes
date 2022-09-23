@@ -10,13 +10,13 @@ Gaussian Naïve Bayes to classify the Spambase data from the UCI ML repository, 
 -	Compared the probabilities and if the probability for spam was greater than not spam then marked it as spam else not spam.
 -	Once, the predictions for all the data sets were ready, calculated the accuracy, precision, recall and confusion matrix for which the result is as below,
 
-	    **Accuracy:  73.78260869565217**
+	**Accuracy:  73.78260869565217**
       
-      **Precision:  60.87570621468926**
+    **Precision:  60.87570621468926**
       
-      **Recall:  94.62129527991219**
+     **Recall:  94.62129527991219**
       
-      **Confusion matrix:
+     **Confusion matrix:
                       [[835 554]
                        [ 49 862]**
        
